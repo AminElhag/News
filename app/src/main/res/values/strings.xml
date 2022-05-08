@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="search">Search...</string>
+    <string name="break_news">Break News</string>
+    <string name="saved_news">Saved news</string>
+    <string name="search_news">Search news</string>
+    <string name="new_image">New Image</string>
+    <string name="save_articl_successfully">save Articl Successfully</string>
+    <string name="delete_articl_successfully">Delete Articl Successfully</string>
+    <string name="redo">Redo</string>
+</resources>
